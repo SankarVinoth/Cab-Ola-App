@@ -1,2 +1,2 @@
-# Cab-Ola-App
+# Cab-App
 Simple car booking app
